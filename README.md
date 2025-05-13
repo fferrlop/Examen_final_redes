@@ -1,4 +1,4 @@
-Enlace al repositorio: 
+Enlace al repositorio: https://github.com/fferrlop/Examen_final_redes.git
 
 # Examen de Redes - Misión 1: Reconexión en la Base Eco (Hoth)
 
